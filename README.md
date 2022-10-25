@@ -44,3 +44,7 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
 src="https://stackoverflow-badge.vercel.app/?userID=19099618" /></a> 
 </p>
+
+
+
+![Snake animation](https://github.com/todevmilen/todevmilen/blob/output/github-contribution-grid-snake.svg)
