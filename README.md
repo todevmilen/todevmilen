@@ -1,3 +1,3 @@
-[![Milen Todev's GitHub stats](https://github-readme-stats.vercel.app/api?username=todevmilen)](https://github.com/anuraghazra/github-readme-stats) ![Milen Todev's GitHub stats](https://github-readme-stats.vercel.app/api?username=todevmilen&count_private=true)
+[![Milen Todev's GitHub stats](https://github-readme-stats.vercel.app/api?username=todevmilen)](https://github.com/anuraghazra/github-readme-stats)![Milen Todev's GitHub stats](https://github-readme-stats.vercel.app/api?username=todevmilen&count_private=true)
 
 
