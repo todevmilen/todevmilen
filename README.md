@@ -27,14 +27,8 @@
 [3]: https://www.linkedin.com/in/heinz-martin/
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="VIM Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Nodejs Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="70" height="70" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ## 🔍 Find me on
 <p align="center"><a 
