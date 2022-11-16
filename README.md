@@ -36,6 +36,6 @@ href="https://github.com/todevmilen" target="_blank"><img alt="Github"
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
 href="https://www.linkedin.com/in/milen-todev-1a3510167" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a><br> <a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
+href="https://stackoverflow.com/users/19099618/todevv" target="_blank"><img alt="StackOverflow" 
 src="https://stackoverflow-badge.vercel.app/?userID=19099618" /></a> 
 </p>
