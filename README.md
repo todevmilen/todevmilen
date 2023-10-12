@@ -1,12 +1,12 @@
 
 <!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+<h1 align="center">Hi 👋, I'm Milen Todev</h1>
+<h3 align="center">A passionate Full Stack developer.</h3>
 
 ## 🔧 Technologies & Tools
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="VIM Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Nodejs Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="70" height="70" />
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="VIM Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Nodejs Logo" width="70" height="70" /> <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle Logo" width="70" height="70" />    <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="70" height="70" /> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/>
+</p>
 
 
 ## 🔍 Find me on
@@ -17,4 +17,6 @@ href="https://www.linkedin.com/in/milen-todev-1a3510167" target="_blank"><img al
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a><br> <a 
 href="https://stackoverflow.com/users/19099618/todevv" target="_blank"><img alt="StackOverflow" 
 src="https://stackoverflow-badge.vercel.app/?userID=19099618" /></a> 
-</p>
+</p>  
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=todevmilen&" alt="todevmilen" /></p>
