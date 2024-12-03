@@ -18,5 +18,6 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 href="https://stackoverflow.com/users/19099618/todevv" target="_blank"><img alt="StackOverflow" 
 src="https://stackoverflow-badge.vercel.app/?userID=19099618" /></a> 
 </p>  
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=todevmilen&" alt="todevmilen" /></p>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=todevmilen" alt="GitHub Streak" /></a>
+</p>
